@@ -92,4 +92,12 @@ padding: 12px 0;
 color: #ffffff;
 text-decoration: none;
 }
+.video-container {
+    text-align: center;
+    margin: 30px 0;
+}
 
+.video-container iframe {
+    display: inline-block;
+    max-width: 100%;
+}
